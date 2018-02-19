@@ -10,8 +10,12 @@
 
 }
 
-
-
+.grey-background {
+  background-color: #292929;
+  height: 200px;
+  padding: 50px 50px 50px 50px;
+  color: white;
+}
 
 
 .ui.segment {
