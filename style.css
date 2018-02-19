@@ -1,6 +1,20 @@
+.ui.borderless.fitted.menu {
+  box-shadow: none;
+  border: none;
+  background-color: lightgray;
+}
+
 .ui.borderless.menu {
   box-shadow: none;
   border: none;
-  background-color: lightgray
-;
+
+}
+
+
+
+
+
+.ui.segment {
+  box-shadow: none;
+  border: none;
 }
